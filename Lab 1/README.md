@@ -21,7 +21,7 @@ F) [Record the interaction](#part-f-record)
 
 ## Part A. Plan 
 
-My setting is the entrance of Bloomberg Center at Cornell Tech. Players are definitely the students entering Bloomberg Center for caalsses. Whenever people walk to the entrance of the building, the device can detect whether the person is wearing a mask or not. The primary goal is to ensure that everyone entering the campus building is wearing a mask!
+My setting is the entrance of Bloomberg Center at Cornell Tech. Players are definitely the students entering Bloomberg Center for caalsses. Whenever people walk to the entrance of the building, the device can detect whether the person is wearing a mask or not. The goal for the players is entering the building and the primary goal for the device is to ensure that everyone entering the campus building is wearing a mask!
 
 ![Part A](https://user-images.githubusercontent.com/20696474/132272790-1f3bc597-984d-4118-97f4-a3edf5158cd9.jpg)
 
