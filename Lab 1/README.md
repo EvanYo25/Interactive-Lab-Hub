@@ -25,7 +25,7 @@ My setting is the entrance of Bloomberg Center at Cornell Tech. Players are defi
 
 ![Part A](https://user-images.githubusercontent.com/20696474/132272790-1f3bc597-984d-4118-97f4-a3edf5158cd9.jpg)
 
-The idea is great! The pandemic is still here and this can make everyone remember to wear a mask whenever getting to campus!
+The idea is great! The pandemic is still here and everyone on-campus should wear a mask in any of Cornell Tech's buildings. This can make everyone remember to wear a mask whenever getting to campus!
 
 
 ## Part B. Act out the Interaction
@@ -40,14 +40,8 @@ Tinkerbelle worked smoothly on my laptop and my cellphone! Some of my friends di
 
 
 ## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
-
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
-
-\*\***Show the follow-up work here.**\*\*
-
+The inital recording failed because my phone received some messages and the vibration made it fell on the ground. Therefore, we considered that providing a steady foundation for the device to stand is pretty important!
 
 ## Part E. Costume the device
 
