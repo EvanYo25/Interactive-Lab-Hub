@@ -80,8 +80,9 @@ Do last week’s assignment again, but this time:
 ## Part A. Plan
 All the settings, players, activities, and goals remain the same, but I do have more ideas to add to this device. Instead of showing "red" and "green" in different situations, I would also like to add "yellow" which represents that the person may be wearing a mask but not properly covering their mouth and nose. Also, I would also like to add some sound effects under different circumstances. 
 
-* Green 
-* Yellow
-* Red
+* Green
+  ** Mask is properly worn. Provide a "clear" sound effect.
+* Yellow - Mask is worn but not covering both mouth and nose. 
+* Red - Mask is not worn. Provide a "error" sound effect.
 
 
