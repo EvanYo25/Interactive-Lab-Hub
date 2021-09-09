@@ -21,7 +21,7 @@ F) [Record the interaction](#part-f-record)
 
 ## Part A. Plan 
 
-My setting is the entrance of Bloomberg Center at Cornell Tech. Players are definitely the students entering Bloomberg Center for caalsses. Whenever people walk to the entrance of the building, the device can detect whether the person is wearing a mask or not. The goal for the players is entering the building and the primary goal for the device is to ensure that everyone entering the campus building is wearing a mask!
+My setting is the entrance of Bloomberg Center at Cornell Tech. Players are definitely the students entering Bloomberg Center for classes. Whenever people walk to the entrance of the building, the device can detect whether the person is wearing a mask or not. The goal for the players is entering the building and the primary goal for the device is to ensure that everyone entering the campus building is wearing a mask!
 
 ![Part A](https://user-images.githubusercontent.com/20696474/132272790-1f3bc597-984d-4118-97f4-a3edf5158cd9.jpg)
 
@@ -76,3 +76,12 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+## Part A. Plan
+All the settings, players, activities, and goals remain the same, but I do have more ideas to add to this device. Instead of showing "red" and "green" in different situations, I would also like to add "yellow" which represents that the person may be wearing a mask but not properly covering their mouth and nose. Also, I would also like to add some sound effects under different circumstances. 
+
+* Green 
+* Yellow
+* Red
+
+
