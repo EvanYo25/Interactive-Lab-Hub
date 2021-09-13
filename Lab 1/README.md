@@ -61,11 +61,6 @@ Shenxin Jiang: Discussed the entire lab with me, gave me feedbacks, and even act
 
 This describes the second week's work for this lab activity.
 
-## Feedback
-
-They think that the idea is even better with the sound effect. They also like the idea of adding a different stage: showing yellow on tinkerbelle when people are not wearing the mask properly. But still, it can be even better if the device can interact with the door, controlling whether unlock or not.
-
-
 ## Revision
 
 All the settings, players, activities, and goals remain the same, but I do have more ideas to add to this device. Instead of showing "red" and "green" in different situations, I would also like to add "yellow" which represents that the person may be wearing a mask but not properly covering their mouth and nose. Also, I would also like to add some sound effects under different circumstances. 
@@ -87,6 +82,10 @@ All the settings, players, activities, and goals remain the same, but I do have 
 
 ## Video
 https://user-images.githubusercontent.com/20696474/133145861-acf709ae-cc59-4407-a6bb-c79165df4cf3.mov
+
+## Feedback
+
+They think that the idea is even better with the sound effect. They also like the idea of adding a different stage: showing yellow on tinkerbelle when people are not wearing the mask properly. But still, it can be even better if the device can interact with the door, controlling whether unlock or not.
 
 
 
