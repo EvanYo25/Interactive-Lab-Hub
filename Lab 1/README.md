@@ -61,21 +61,9 @@ Shenxin Jiang: Discussed the entire lab with me, gave me feedbacks, and even act
 
 This describes the second week's work for this lab activity.
 
-
-## Prep (to be done before Lab on Wednesday)
-
-You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
-
 \*\***Summarize feedback from your partners here.**\*\*
+They think that the idea is even better with the sound effect. They also like the idea of adding a different stage: showing yellow on tinkerbelle when people are not wearing the mask properly. But still, it can be even better if the device can interact with the door, controlling whether unlock or not.
 
-## Make it your own
-
-Do last week’s assignment again, but this time: 
-1) It doesn’t have to (just) use light, 
-2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative!
-3) We will be grading with an emphasis on creativity. 
-
-\*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 ## Revision
 All the settings, players, activities, and goals remain the same, but I do have more ideas to add to this device. Instead of showing "red" and "green" in different situations, I would also like to add "yellow" which represents that the person may be wearing a mask but not properly covering their mouth and nose. Also, I would also like to add some sound effects under different circumstances. 
@@ -92,8 +80,11 @@ All the settings, players, activities, and goals remain the same, but I do have 
   * Open a box with masks in it???
 
 ## Storyboard
+![IMG_8515](https://user-images.githubusercontent.com/20696474/133146843-f9d83472-73a5-4488-890a-b57982652686.jpg)
 
 
 ## Video
+https://user-images.githubusercontent.com/20696474/133145861-acf709ae-cc59-4407-a6bb-c79165df4cf3.mov
+
 
 
