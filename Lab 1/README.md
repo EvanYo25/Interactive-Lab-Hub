@@ -87,5 +87,5 @@ https://user-images.githubusercontent.com/20696474/133145861-acf709ae-cc59-4407-
 
 They think that the idea is even better with the sound effect. They also like the idea of adding a different stage: showing yellow on tinkerbelle when people are not wearing the mask properly. But still, it can be even better if the device can interact with the door, controlling whether unlock or not.
 
-
+By Shenxin Jiang, Ethan Huang
 
