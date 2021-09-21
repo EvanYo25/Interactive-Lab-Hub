@@ -208,7 +208,10 @@ https://user-images.githubusercontent.com/20696474/134104629-ad52fc8a-dd4a-45fd-
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
-I would like to make a simple animation of 5 or 10 seconds by changing the picures per second.
+I would like to make a simple animation of 5 or 10 seconds by changing the picures per second, or probably a timer feature.
+
+![IMG_8580](https://user-images.githubusercontent.com/20696474/134106750-d1718b8d-c6fc-44c5-b6e8-f6bb8fe6ac05.jpg)
+
 
 # Prep for Part 2
 
