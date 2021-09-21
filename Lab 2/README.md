@@ -194,10 +194,13 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
-I made a clock by representing the hours and minutes by number of coffee and beer emojis. Additionally, I was curious about how long I have left home, so I made a timer of how many years, days, ..., seconds has passed since I got on the airplane!
+I made a clock by representing the hours and minutes by number of coffee and beer emojis. Additionally, I was curious about how long I have left home, so I made a timer of how many years, days, hours, minutes, seconds has passed since I got on the airplane! The way to switch between the two modes are simply pressing the button on the top.
 
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+https://user-images.githubusercontent.com/20696474/134099985-e95cac0e-ad42-4059-9453-35c3839fb927.mov
+
+
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
