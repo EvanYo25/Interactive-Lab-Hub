@@ -103,7 +103,7 @@ mar = 5
 wid = 40
 hei = 10
 
-mood = [0, 0, 1, 1, 2, 1, 1, 2, 0, 0, 1, 2]
+mood = [0] * 12
 meet = [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
 
 color2 = ["#FFFFFF", "#DBAF15", "#2784B5"]
@@ -191,11 +191,12 @@ while True:
 
     hour_flash = (hour_flash + 1) %4
 
+    h = (int(hour)+3)%12
+
     if not b23.value:
         print("b23 pressed")
         user = detectUser((0,0,255))
 
-        h = (int(hour)+3)%12
         if user:
             meet[h] = int(color.index(user))
             print(user)
@@ -206,3 +207,6 @@ while True:
         else:
             print("no friends detected")
 
+    if not b24.value:
+        print("b24 pressed")
+        mood[h] = (mood[h]+1)%3
