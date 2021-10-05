@@ -68,6 +68,8 @@ One thing you might need to pay attention to is the audio input setting of Pi. S
 
 \*\***My files for this part is under the folder: ask_for_zip_code. I wrote a shell script called ask.sh, saying, "What is your zip code?" Then I wrote another speech2text script: zip_code.sh which calls the ask.sh by adding a "./ask.sh" first, and then execute the recording and speech recognition. **\*\*
 
+So I used to live in Downtown Brooklyn, which its zip code is 11201.
+
 ![截圖 2021-10-04 下午10 07 43](https://user-images.githubusercontent.com/20696474/135949456-0998512b-5546-464f-a93c-c00444836fa3.png)
 
 
@@ -108,8 +110,11 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+\*\***Please describe and document your process.**\*\*
 
-Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
+#### Tiger Parent
+
+We started by thinking about all kinds of scenarios where speech application can be implemented, and we ended up with an idea called "Tiger Parent", which reminds you to get up, do all kinds of stuff, and finally get to sleep at the end of the day.
 
 ![243796102_4309863332442243796102_4309863332442844_6832019000802186657_n844_6832019000802186657_n](https://user-images.githubusercontent.com/20696474/135949970-031f64ea-7746-4820-bfa9-39be2e0e2fa3.jpg)
 
@@ -120,14 +125,13 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 ![243870722_453327252659633_8673334709173697308_n](https://user-images.githubusercontent.com/20696474/135950076-209b9aec-90eb-4c4d-bde1-09c16348824e.jpg)
 
 
-
-\*\***Please describe and document your process.**\*\*
-
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+I actually shared this dialogue with another friend of mine who did not join our discussion. I did have some interesting findings. The easiest example is that when I was asking him to reply the "morning call" sentence, he actually had no clue that he could reply a specific amount of time and let "Tiger Parent" stop talking, which I believe is a great example of not letting the user understand what our feature is. This is pretty important since we want our device to interact with the users, not just a simple alarm. We should better re-phase our sentences so that the user can have some clues to know what to answer.
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
