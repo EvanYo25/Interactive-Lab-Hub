@@ -53,7 +53,7 @@ Now, you might wonder what exactly is a `.sh` file? Typically, a `.sh` file is a
 
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
-\*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
+\*\***My file for this part is my_greeting.sh.**\*\*
 (This shell file should be saved to your own repo for this lab.)
 
 Bonus: If this topic is very exciting to you, you can try out this new TTS system we recently learned about: https://github.com/rhasspy/larynx
@@ -66,7 +66,10 @@ In particular, look at `test_words.py` and make sure you understand how the voca
 
 One thing you might need to pay attention to is the audio input setting of Pi. Since you are plugging the USB cable of your webcam to your Pi at the same time to act as speaker, the default input might be set to the webcam microphone, which will not be working for recording.
 
-\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+\*\***My files for this part is under the folder: ask_for_zip_code. I wrote a shell script called ask.sh, saying, "What is your zip code?" Then I wrote another speech2text script: zip_code.sh which calls the ask.sh by adding a "./ask.sh" first, and then execute the recording and speech recognition. **\*\*
+
+![截圖 2021-10-04 下午10 07 43](https://user-images.githubusercontent.com/20696474/135949456-0998512b-5546-464f-a93c-c00444836fa3.png)
+
 
 Bonus Activity:
 
@@ -96,6 +99,9 @@ pi@ixe00:~/Interactive-Lab-Hub/Lab 3 $ python server.py
  * Debugger PIN: 162-573-883
 ```
 From a remote browser on the same network, check to make sure your webserver is working by going to `http://<YourPiIPAddress>:5000`. You should be able to see "Hello World" on the webpage.
+
+<img width="1028" alt="截圖 2021-10-04 下午10 07 18" src="https://user-images.githubusercontent.com/20696474/135949432-f590e37c-6051-4d55-bb5b-5e50caab8232.png">
+
 
 ### Storyboard
 
