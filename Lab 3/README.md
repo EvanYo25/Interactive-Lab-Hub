@@ -159,7 +159,7 @@ The system should:
 
 *Include videos or screencaptures of both the system and the controller.*
 
-All the documentations are included in the following link (worked with Grace Le and Angelica:
+All the documentations are included in the following link (worked with Grace Le and Angelica Kosasih:
 https://docs.google.com/document/d/13te2bYmrv20mQIsHGpzNyAyvMewzI6RiqODtk2XfpIs/edit?usp=sharing
 
 Videos and Recordings are included in the following link:
