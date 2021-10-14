@@ -159,24 +159,8 @@ The system should:
 
 *Include videos or screencaptures of both the system and the controller.*
 
-## Test the system
-Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
+All the documentations are included in the following link (worked with Grace Le and Angelica:
+https://docs.google.com/document/d/13te2bYmrv20mQIsHGpzNyAyvMewzI6RiqODtk2XfpIs/edit?usp=sharing
 
-Answer the following:
-
-### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
-
-### What worked well about the controller and what didn't?
-
-\*\**your answer here*\*\*
-
-### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
-
-\*\**your answer here*\*\*
-
-
-### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
-
-\*\**your answer here*\*\*
-
+Videos and Recordings are included in the following link:
+https://drive.google.com/drive/folders/1CAFjDt5w0y3TMAC5VZmKHeQ8Ef_V9a5p?usp=sharing
