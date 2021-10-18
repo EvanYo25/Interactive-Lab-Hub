@@ -179,6 +179,7 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+All my answers are included in Part D.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -220,13 +221,19 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+1. Automatic Door
+2. Password System
+3. Music Playing System
+4. Gaming using Joystick
+5. Automatic Instruction
+
 ![IMG_9220](https://user-images.githubusercontent.com/20696474/137809384-3f1b4d32-33e2-4153-9f86-b6de1ac12537.jpg)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
-**\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+The basic concept for my designs is that the screen has to be somewhere at the top of all the sensors, e.g. capacitive sensors, joysticks, rotary encoder. This is because when people are interacting with the device, they would like to see the screen at the same time. If placing the screen at the bottom, it is very likely that the screen will be blocked by the hands when manipulating or interacting with the device. 
 
-**\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+**\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
 Build a cardbord prototype of your design.
 ![IMG_9221](https://user-images.githubusercontent.com/20696474/137809453-3b4d84ca-a5da-4219-81d1-f6d5750a5749.jpg)
@@ -234,8 +241,14 @@ Build a cardbord prototype of your design.
 ![IMG_9225](https://user-images.githubusercontent.com/20696474/137809528-5488fafc-44d1-4dbf-970f-02848f6b0c70.jpg)
 ![IMG_9226](https://user-images.githubusercontent.com/20696474/137809571-e22169f8-e0bb-4bf6-8a28-aaba34b051fa.jpg)
 
+**\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+It actually does not have much restrictions on it. The only thing is that the screen should be on the top of the capacitive sensor so that the users can see their input password and will not be blocked by their fingers. 
 
 **\*\*\*Document your rough prototype.\*\*\***
+There is two main stages of the system. One is the stage before entering the password, and the other is the stage after entering the correct password. For the first stage, users can see the instructions on the screen to key in the password. Instructions include mentioning the buttion to submit and reset. For the second stage, users can see the secret information (can be anything up to the user) displayed on the screen after pressing the correct password.
+
+There is also notifications after submitting your password. If the password you submit is correct, then it will guide you into the second stage with secret information that you would like to protect. If the password you submit is incorrect, then it will return to the first stage and clear the input password so that the users have to start all over again, which matches what most of the systems. 
 
 
 LAB PART 2
