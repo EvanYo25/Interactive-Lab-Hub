@@ -12,9 +12,9 @@ while True:
 	prox = sensor.proximity
 	print(prox)
 	if prox > 0:
-		sentence = "Okay! I see you waked up! Good Job!"
+		sentence = "Okay! I see you studying! Good Job!"
 	else:
-		sentence = "Wake up Ethan!"
+		sentence = "Go study, Rui"
 
 	cmd = "espeak -ven+f2 -k5 -s150 --stdout  \'" + sentence + "\' | aplay"
 	returned_value = os.system(cmd)
