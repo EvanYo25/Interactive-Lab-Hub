@@ -220,6 +220,8 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![IMG_9220](https://user-images.githubusercontent.com/20696474/137809384-3f1b4d32-33e2-4153-9f86-b6de1ac12537.jpg)
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
@@ -227,6 +229,11 @@ Think about how you want to present the information about what your sensor is se
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
 Build a cardbord prototype of your design.
+![IMG_9221](https://user-images.githubusercontent.com/20696474/137809453-3b4d84ca-a5da-4219-81d1-f6d5750a5749.jpg)
+![IMG_9224](https://user-images.githubusercontent.com/20696474/137809495-66d24976-dcbd-4538-a383-2cba1c18d6f7.jpg)
+![IMG_9225](https://user-images.githubusercontent.com/20696474/137809528-5488fafc-44d1-4dbf-970f-02848f6b0c70.jpg)
+![IMG_9226](https://user-images.githubusercontent.com/20696474/137809571-e22169f8-e0bb-4bf6-8a28-aaba34b051fa.jpg)
+
 
 **\*\*\*Document your rough prototype.\*\*\***
 
