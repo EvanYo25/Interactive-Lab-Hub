@@ -294,3 +294,10 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+
+To make it look more realistic, I added a proximity sensor to it. When no people is around, the screen remains closed, and whenever someone gets close to the device, the system starts working! It is a device for you to store some secret information, for example, password, though you still need a password for the device...  
+
+* Looks like: The device should look somehow like a tablet. It can be attached to a wall or can be placed anywhere you need actually. It makes you feel like it is always right there waiting for people who need it.
+* Works like: The screen of the device remained closed(black) until someone gets close to it. There is actually instructions on the screen and on the appearance of the device. After the device is on, there will be two main stages as described above: One is the stage before entering the password, and the other is the stage after entering the correct password. For the first stage, users can see the instructions on the screen to key in the password. Instructions include mentioning the buttion to submit and reset. For the second stage, users can see the secret information (can be anything up to the user) displayed on the screen after pressing the correct password.
+* Acts like: After the device detects people that is close to the sensor, the screen will be turned on automatically and provide instructions on how to use the device. There is also notifications after submitting your password. If the password you submit is correct, then it will guide you into the second stage with secret information that you would like to protect. If the password you submit is incorrect, then it will return to the first stage and clear the input password so that the users have to start all over again, which matches what most of the systems. 
+
