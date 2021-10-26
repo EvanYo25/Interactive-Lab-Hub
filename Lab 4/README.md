@@ -300,5 +300,6 @@ On the top left corner, it is the screen to show the instructions. On the bottom
 * Acts like: After the device detects people that is close to the sensor, the screen will be turned on automatically and provide instructions on how to use the device. There is also notifications after submitting your password. If the password you submit is correct, then it will guide you into the second stage with secret information that you would like to protect. If the password you submit is incorrect, then it will return to the first stage and clear the input password so that the users have to start all over again, which matches what most of the systems. 
 
 ### Video
+(Please watch in 1080p to see the instructions on the screen.)
 https://drive.google.com/file/d/1fiNN7QMpPGLMxH7decavyozP5hsMi7KW/view?usp=sharing
 
