@@ -102,19 +102,19 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 **contours-detection**
 ![截圖 2021-11-01 下午11 06 59](https://user-images.githubusercontent.com/20696474/139780642-2ca0d207-630b-41bc-b5a6-586085cc34bf.png)
-We can use this to detect the shape of objects, and show different reaction on the device when seeing different objects.
+We can use this to detect the shape of objects, and show different reaction on the device when seeing different shape of objects. This is really cool since the piece of code can figure out the contours!
 
 **face-detection**
 ![截圖 2021-11-01 下午11 15 58](https://user-images.githubusercontent.com/20696474/139781431-67843759-f194-43b6-9ec1-2da0c7e461c6.png)
-We can use this to see whether there is a user in front of the interactive device or not, and may use this as a trigger to turn on the screen to welcome the user.
+We can use this to see whether there is a user in front of the interactive device or not, and may use this as a trigger to turn on the screen to welcome the user, making the user feeling more interactive.
 
 **flow-detection**
 ![截圖 2021-11-01 下午11 21 30](https://user-images.githubusercontent.com/20696474/139781804-88d603d4-6736-4741-b1f1-711e446212be.png)
-We can use this to analyze the shooting gesture of a person training for basketball.
+We can use this to analyze the shooting gesture of a person training for basketball. I guess this kind of detection may already be implemented for training golf players.
 
 **object-detection**
 ![截圖 2021-11-01 下午11 26 06](https://user-images.githubusercontent.com/20696474/139782205-a6e7397c-5dc6-40f6-8b0e-e42fd90b5c7e.png)
-We can use this to detect the objects appearing in the scene.
+We can use this to detect the objects appearing in the scene. We can even count the objects showing in the scene.
 
 #### MediaPipe
 
