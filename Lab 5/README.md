@@ -105,10 +105,16 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 
 **face-detection**
+![截圖 2021-11-01 下午11 15 58](https://user-images.githubusercontent.com/20696474/139781431-67843759-f194-43b6-9ec1-2da0c7e461c6.png)
+
+
 
 **flow-detection**
+![截圖 2021-11-01 下午11 21 30](https://user-images.githubusercontent.com/20696474/139781804-88d603d4-6736-4741-b1f1-711e446212be.png)
 
 **object-detection**
+![截圖 2021-11-01 下午11 26 06](https://user-images.githubusercontent.com/20696474/139782205-a6e7397c-5dc6-40f6-8b0e-e42fd90b5c7e.png)
+
 
 #### MediaPipe
 
