@@ -103,11 +103,8 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 **contours-detection**
 ![截圖 2021-11-01 下午11 06 59](https://user-images.githubusercontent.com/20696474/139780642-2ca0d207-630b-41bc-b5a6-586085cc34bf.png)
 
-
 **face-detection**
 ![截圖 2021-11-01 下午11 15 58](https://user-images.githubusercontent.com/20696474/139781431-67843759-f194-43b6-9ec1-2da0c7e461c6.png)
-
-
 
 **flow-detection**
 ![截圖 2021-11-01 下午11 21 30](https://user-images.githubusercontent.com/20696474/139781804-88d603d4-6736-4741-b1f1-711e446212be.png)
@@ -151,6 +148,9 @@ Each of the installs will take a while, please be patient. After successfully in
 Try the two main features of this script: 1) pinching for percentage control, and 2) "[Quiet Coyote](https://www.youtube.com/watch?v=qsKlNVpY7zg)" for instant percentage setting. Notice how this example uses hardcoded positions and relates those positions with a desired set of events, in `hand_pose.py` lines 48-53. 
 
 **\*\*\*Consider how you might use this position based approach to create an interaction, and write how you might use it on either face, hand or body pose tracking.\*\*\***
+
+![截圖 2021-11-01 下午11 28 31](https://user-images.githubusercontent.com/20696474/139782465-67b8f0cf-3ad9-4a92-970e-94b345eea207.png)
+
 
 (You might also consider how this notion of percentage control with hand tracking might be used in some of the physical UI you may have experimented with in the last lab, for instance in controlling a servo or rotary encoder.)
 
