@@ -154,6 +154,7 @@ Try the two main features of this script: 1) pinching for percentage control, an
 
 ![截圖 2021-11-01 下午11 28 31](https://user-images.githubusercontent.com/20696474/139782465-67b8f0cf-3ad9-4a92-970e-94b345eea207.png)
 
+By pose tracking, we can detect what hand gesture the user is doing. For example, we can change what is shown on the screen by detecting the user's hand is swiping to the right. We can even define different gestures for more specific use cases!
 
 (You might also consider how this notion of percentage control with hand tracking might be used in some of the physical UI you may have experimented with in the last lab, for instance in controlling a servo or rotary encoder.)
 
