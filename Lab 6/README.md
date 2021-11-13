@@ -122,6 +122,17 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 The capacitive sensor board can detect which I was touching and send a message of "Twizzler X touched!" to the server. Actually, we can modify what we want to send to the server by modifying the source code.
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
+<img width="1048" alt="截圖 2021-11-13 下午12 33 49" src="https://user-images.githubusercontent.com/20696474/141653485-09ca493d-4924-4d07-9320-a9111e382d7c.png">
+
+##### Source code: Lab 6/proximity_sender.py
+
+I used the proximity sensor to detect if anything is getting close to the sensor. I kind of utilized the example code from distributed-twizzlers_sender.py and copied the piece of code for sending the message to MQTT server. The following screenshot is what I used for setting up MQTT, and finally used:
+```
+client.publish(topic, my_message)
+```
+to send it to MQTT server.
+<img width="306" alt="截圖 2021-11-13 下午12 37 54" src="https://user-images.githubusercontent.com/20696474/141653565-79d2b54f-4cbf-47b2-a7d1-f390cc0fa1bc.png">
+
 
 
 ### Part D
