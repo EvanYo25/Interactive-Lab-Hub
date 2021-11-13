@@ -169,6 +169,13 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 <img width="817" alt="截圖 2021-11-13 下午12 54 30" src="https://user-images.githubusercontent.com/20696474/141654070-74bdf4b0-db48-4851-9e51-86b9c098978b.png">
 ![IMG_9671](https://user-images.githubusercontent.com/20696474/141654114-cff1075f-431d-4dbd-bf8a-b5729185da86.jpg)
 
+I setted up the color sending and reading code! Actually, we can modify where we want to get the RGB color code from. We can decide which topic under our server to send and get the RGB data from. This is really interesting and especially when looking at how the reading part is written. It used the feature of:
+```
+client.subscribe(topic)
+```
+to keep receiving data from the server.
+
+<img width="497" alt="截圖 2021-11-13 下午12 58 31" src="https://user-images.githubusercontent.com/20696474/141654181-8431af1e-f39a-4109-ae67-c6977b2b0bcf.png">
 
 ### Part E
 ### Make it your own
