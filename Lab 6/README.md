@@ -94,8 +94,8 @@ The following is the screenshot of me and Ethan testing MQTT.
 1. Detect if someone's in front of your door using proximity sensor. If someone approaches, then it will send message to the server, and the receiver can show message.
 2. When you're chilling and don't want to get up the bed to close the lights, you can press a button on one device. The device sends out a message to the server, and the reader device with a tiny motor can close the light for you.
 3. It can be a simple messaging system to send messages to elder people who are not familiar with smartphones at home. It can be shown on a screen for them to read, and the younger people who has to go to school or to work can send messages home.
-4. asdf
-5. abcd
+4. Based on the previous idea, we can even add proximity sensor and utilize the text_to_speech feature to read out the received messages when the elder people get close to a specific area.
+5. It can be an emergency system for children or elder people at home. Once they press the emergency buttion on one device, the device will send a emergency message to the server and finally the subscribed devices can make alerts to those care providers.
 
 
 ### Part C
