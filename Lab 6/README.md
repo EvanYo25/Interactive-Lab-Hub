@@ -54,6 +54,11 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 ![publish settings](imgs/mqtt_explorer_2.png?raw=true)
 
+### Testing on MQTT
+The following is the screenshot of me and Ethan testing MQTT.
+
+<img width="1023" alt="截圖 2021-11-13 上午11 43 31" src="https://user-images.githubusercontent.com/20696474/141651828-c35f1650-b973-4eb8-80bc-901351cce5cb.png">
+
 
 ### Part B
 ### Send and Receive on your Pi
@@ -85,6 +90,12 @@ Once connected, you should be able to see all the messages under the IDD topic. 
   ```
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
+1. Detect if someone's in front of your door using proximity sensor. If someone approaches, then it will send message to the server, and the receiver can show message.
+2. When you're chilling and don't want to get up the bed to close the lights, you can press a button on one device. The device sends out a message to the server, and the reader device with a tiny motor can close the light for you.
+3. It can be a simple messaging system to send messages to elder people who are not familiar with smartphones at home. It can be shown on a screen for them to read, and the younger people who has to go to school or to work can send messages home.
+4. asdf
+5. abcd
+
 
 ### Part C
 ### Streaming a Sensor
