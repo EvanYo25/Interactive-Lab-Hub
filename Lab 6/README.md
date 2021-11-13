@@ -130,7 +130,8 @@ I used the proximity sensor to detect if anything is getting close to the sensor
 ```
 client.publish(topic, my_message)
 ```
-to send it to MQTT server.
+to send it to MQTT server.  
+
 <img width="306" alt="截圖 2021-11-13 下午12 37 54" src="https://user-images.githubusercontent.com/20696474/141653565-79d2b54f-4cbf-47b2-a7d1-f390cc0fa1bc.png">
 
 
