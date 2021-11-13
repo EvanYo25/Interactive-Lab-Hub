@@ -166,6 +166,8 @@ You may ask "but what if I missed class?" Am I not admitted into the collective 
 Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-true-colornet.glitch.me/) and become one with the ColorNet on the inter-webs. Glitch is a great tool for prototyping sites, interfaces and web-apps that's worth taking some time to get familiar with if you have a chance. Its not super pertinent for the class but good to know either way. 
 
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
+<img width="817" alt="截圖 2021-11-13 下午12 54 30" src="https://user-images.githubusercontent.com/20696474/141654070-74bdf4b0-db48-4851-9e51-86b9c098978b.png">
+![IMG_9671](https://user-images.githubusercontent.com/20696474/141654114-cff1075f-431d-4dbd-bf8a-b5729185da86.jpg)
 
 
 ### Part E
