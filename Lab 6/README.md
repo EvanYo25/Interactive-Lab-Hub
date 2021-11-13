@@ -117,6 +117,8 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
  ```
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
+<img width="1098" alt="截圖 2021-11-13 下午12 09 25" src="https://user-images.githubusercontent.com/20696474/141652685-08e99f95-cf89-4653-9224-1d65470873c8.png">
+The capacitive sensor board can detect which I was touching and send a message of "Twizzler X touched!" to the server. Actually, we can modify what we want to send to the server by modifying the source code.
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
