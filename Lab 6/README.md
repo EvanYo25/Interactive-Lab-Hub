@@ -58,6 +58,7 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 The following is the screenshot of me and Ethan testing MQTT.
 
 <img width="1023" alt="截圖 2021-11-13 上午11 43 31" src="https://user-images.githubusercontent.com/20696474/141651828-c35f1650-b973-4eb8-80bc-901351cce5cb.png">
+<img width="928" alt="截圖 2021-11-13 下午12 16 42" src="https://user-images.githubusercontent.com/20696474/141652880-7d27855a-db41-4894-8f6b-ff05dd417f54.png">
 
 
 ### Part B
