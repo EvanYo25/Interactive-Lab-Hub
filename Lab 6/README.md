@@ -180,6 +180,9 @@ to keep receiving data from the server.
 ### Part E
 ### Make it your own
 
+LINK to Part E:
+
+
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
