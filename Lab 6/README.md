@@ -184,6 +184,10 @@ LINK to Part E (worked with Ethan Huang (eh543)):
 
 https://docs.google.com/document/d/1nQdgjQ9m0TT1B0PDPrExZJsch-rpzFhQhaeeweAnlbA/edit?usp=sharing
 
+LINK to Demo Video:
+
+https://www.youtube.com/watch?v=ewKLFeLzs0g
+
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
@@ -195,4 +199,5 @@ Find at least one class (more are okay) partner, and design a distributed applic
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
+
 
