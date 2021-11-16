@@ -180,7 +180,8 @@ to keep receiving data from the server.
 ### Part E
 ### Make it your own
 
-LINK to Part E:
+LINK to Part E (worked with Ethan Huang (eh543)):
+
 https://docs.google.com/document/d/1nQdgjQ9m0TT1B0PDPrExZJsch-rpzFhQhaeeweAnlbA/edit?usp=sharing
 
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
