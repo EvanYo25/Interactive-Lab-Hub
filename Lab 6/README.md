@@ -181,7 +181,7 @@ to keep receiving data from the server.
 ### Make it your own
 
 LINK to Part E:
-
+https://docs.google.com/document/d/1nQdgjQ9m0TT1B0PDPrExZJsch-rpzFhQhaeeweAnlbA/edit?usp=sharing
 
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
 
