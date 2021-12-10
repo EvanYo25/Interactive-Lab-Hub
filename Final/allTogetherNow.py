@@ -19,6 +19,10 @@ import time
 import cv2
 
 # #################
+import RPi.GPIO as GPIO
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(5, GPIO.OUT)
+
 
 seesaw = seesaw.Seesaw(board.I2C(), addr=0x36)
 
@@ -74,6 +78,11 @@ else:
 print("Is Webcam running? "+ str(webCam))
 # ######################################
 
+def vibrate(secs):
+    GPIO.output(5, True)
+    time.sleep(secs)
+    GPIO.output(5, False)
+
 def GetRecordings(dir):
     global recordings
     exist = Path("./localfiles/" + dir).is_dir()
@@ -123,6 +132,7 @@ def StopRecording():
     wavefile.close()
     audio = pyaudio.PyAudio() # create pyaudio instantiation
     stream = None
+    time.sleep(2)
     while not os.path.isfile(filename):
         print("not yet")
         continue
@@ -130,8 +140,10 @@ def StopRecording():
 
 def SendFile(filename, dir):
     print("New file created: "+filename)
+    print("uploading")
     cmd = os.popen("sshpass -p 'ch956@cornell.edu' scp ./" + filename + " pi@10.56.252.86:~/myfiles/" + dir)
     cmd.read()
+    print("uplaoded")
 
 def ReadQRCode():
     global currQRCode
@@ -148,6 +160,7 @@ def ReadQRCode():
             text = "{}".format(barcodeData)
             if text != currQRCode:
                 currQRCode = text
+                vibrate(2)
                 print(currQRCode)
                 return True
     return False
