@@ -1,6 +1,4 @@
 # Final Project - Hear Together
 
-## Prep
-
-1. Documentation: 
-## Overview
+## Documentation
+https://docs.google.com/document/d/16bZl7DDlX3waruDpMX6en8plWbqMP1BoeVU-49PaNEA/edit?usp=sharing
